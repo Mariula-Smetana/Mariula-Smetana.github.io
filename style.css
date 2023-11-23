@@ -1,0 +1,80 @@
+h1 {
+    color: #333399;
+    font-size: 24pt;
+    font-family: "Arial Black";
+}
+
+h2 {
+    color: #4f4f71;
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14pt;
+}
+
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+}
+
+figure {
+    background: #e8e8e8;
+    padding: 15px;
+}
+
+a {
+    color: #3366cc;
+}
+blockquote,
+q {
+    font-size: 2em;
+    font-family: Georgia;
+    font-style: italic;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+caption {
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+td {
+    border: 1px solid #000000;
+}
+thead td {
+   background:#b4d38b ; 
+}
+
+tfoot td {
+    background: #ced2c9;
+}
+
+.col-3 {
+    text-align: right;
+    width: 150 px;
+}
+
+.col1 {
+    width: 300px;
+}
+.col-2 {
+    width: 150px;
+}
+.col-4 {
+    width: 200px;
+}
+
+
+.t2 td {
+    width: 200px;
+    height: 100px;
+}
